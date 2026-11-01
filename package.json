@@ -1,0 +1,14 @@
+{
+  "name": "pulso-gestor-de-tareas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gestor de tareas colaborativo con Node.js y SQLite",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}
